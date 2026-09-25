@@ -153,6 +153,7 @@ Answers to Question 4:
 
  - My array only takes numbers while the default java arrayList takes objects
  - My List grows by doubling while the java array list grows by 1.5
+ - Most methods return true if it works, we did not do that
 
 
  */
